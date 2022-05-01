@@ -1,5 +1,5 @@
 #CODING BY UTF-8
-#AlpinCompiler
+#FADLAN
 #Ngerip Sc Ini Gw Buat Mati
 
 import os, sys, time, re, json, requests, bs4, random, calendar, datetime,subprocess, logging
@@ -76,7 +76,7 @@ _______  ______ _______ _______ _     _ _______  ______
 |_____  |    \_ |     | |_____  |    \_ |______ |    \_
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Author   : FADLAN
- [\x1b[1;96m+%s] Github   : https://github.com/FadlanX/fadlani
+ [\x1b[1;96m+%s] Github   : -
  [\x1b[1;96m+%s] Facebook : FADLAN Hacker
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 
